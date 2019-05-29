@@ -1,10 +1,9 @@
 class.Dog
+def fido = Dog.new
+
   def name ("Fido")
+"fido" => name
 
-
-   def fido.name = "Fido"
-    
-  #fido.name => fido
   
   #fido.bark => woof!
   
